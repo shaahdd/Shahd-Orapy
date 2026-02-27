@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&width=500&lines=Hello,+I'm+Shahd+Orapy+👋;Backend+Developer+.NET;Competitive+Programmer" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&width=500&lines=Hello,+I'm+Shahd+Orapy+👋;Backend+Developer+.NET;Competitive+Programmer" alt="Typing SVG" />
 
 ### Computer Science Student | Backend Developer (.NET) | Competitive Programmer | Open Source Enthusiast
 
